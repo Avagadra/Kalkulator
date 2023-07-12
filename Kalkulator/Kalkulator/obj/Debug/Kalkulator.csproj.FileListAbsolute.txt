@@ -1,0 +1,14 @@
+C:\Users\DearKetrin\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\DearKetrin\source\repos\Kalkulator\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\DearKetrin\source\repos\Kalkulator\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\DearKetrin\source\repos\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+C:\Users\DearKetrin\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\DearKetrin\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\DearKetrin\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\DearKetrin\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\DearKetrin\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\DearKetrin\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\DearKetrin\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\DearKetrin\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\DearKetrin\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\DearKetrin\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
